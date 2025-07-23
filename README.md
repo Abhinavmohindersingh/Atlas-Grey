@@ -3,6 +3,7 @@
 ## Quick Overview
 
 Monitor suspension bridge health in real-time using IoT sensors, advanced filtering, and intelligent safety algorithms. Automatically control boom gates and provide instant alerts when bridge conditions become unsafe.
+![Project Idea](https://raw.githubusercontent.com/Abhinavmohindersingh/Atlas-Grey/main/Diagrams/Idea.png)
 
 ### Key Features
 
